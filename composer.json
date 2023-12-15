@@ -1,5 +1,5 @@
 {
-    "name": "enlightn/laravel-security-checker",
+    "name": "aglavas/laravel-security-checker",
     "description": "A Laravel package to scan your dependencies for known security vulnerabilities.",
     "type": "library",
     "keywords": [
@@ -12,8 +12,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Paras Malhotra",
-            "email": "paras@laravel-enlightn.com"
+            "name": "Andrija Glavaš",
+            "email": "aglavas11@gmail.com"
         }
     ],
     "require": {
